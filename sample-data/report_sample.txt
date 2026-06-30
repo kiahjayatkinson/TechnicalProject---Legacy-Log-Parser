@@ -1,0 +1,95 @@
+{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 10.0.26100}\viewkind4\uc1 
+\pard\cf1\f0\fs20\lang1033\page\par
+* FMS *     ACME COURIERS P/L - DEPOT  Jet       JOB DETAILS                             Date printed: Mon Jan 12 17:30:00 2026\par
+\tab\tab\tab\tab\tab  All drivers For 12 Jan 26\par
+                                                                     ** Includes Driver Fuel Levy **\tab\tab Page: 1\par
+\par
+\tab\tab For                                    Total Jobs       Total Payout    \par
+\par
+   D. BRANNT               (3)         2 Jobs                 0.00      \par
+   H. ORRIN                (11)        5 Jobs               518.24      \par
+   W. FENMORE              (13)       19 Jobs               360.96      \par
+   A. FENMORE              (17)        7 Jobs               266.33      \par
+   A. JUNO                 (19)        7 Jobs               508.01      \par
+   W. ABNEY                (22)        8 Jobs               374.60      \par
+   J. AMSEL                (23)        6 Jobs               499.07      \par
+   L. ROTH                 (25)        5 Jobs               257.66      \par
+   L. GALLAS               (27)        3 Jobs               339.96      \par
+   M. WELKIN               (29)       20 Jobs               282.26      \par
+   B. DOWE                 (31)       18 Jobs               212.41      \par
+   N. FENMORE              (34)       18 Jobs               296.59      \par
+   M. KEEL                 (36)        7 Jobs               502.29      \par
+   B. ORRIN                (37)       10 Jobs               642.61      \par
+   H. GALLAS               (38)       13 Jobs               288.99      \par
+   M. KORDA                (43)       12 Jobs               327.64      \par
+   J. EWERT                (50)       20 Jobs               467.49      \par
+   W. PELLAM               (51)        6 Jobs               381.13      \par
+   J. JUNO                 (52)        8 Jobs               492.31      \par
+   B. ORRIN                (61)        2 Jobs               552.52      \par
+   N. ROTH                 (101)       3 Jobs               255.49      \par
+   L. NOAKE                (102)      21 Jobs               399.62      \par
+   R. JESPER               (103)       9 Jobs               219.82      \par
+   W. ISLE                 (105)       9 Jobs               523.51      \par
+   P. LARK                 (109)      13 Jobs               331.00      \par
+   E. GRANT                (111)      16 Jobs               195.45      \par
+   B. HOLT                 (112)       5 Jobs               463.72      \par
+   P. MOSS                 (113)       3 Jobs               342.38      \par
+   R. HOBBS                (114)       9 Jobs               635.54      \par
+   A. HOLT                 (116)      22 Jobs               592.39      \par
+   J. VOSS                 (117)       4 Jobs               296.75      \par
+   F. DOWE                 (121)       1 Jobs               626.91      \par
+   J. GRANT                (122)       6 Jobs               403.84      \par
+   D. TARRO                (127)      21 Jobs               403.83      \par
+   G. JESPER               (133)      12 Jobs               531.26      \par
+   W. HOBBS                (200)       1 Jobs               449.47      \par
+   S. BRANNT               (201)       4 Jobs               614.55      \par
+   K. PELLAM               (202)       2 Jobs               270.44      \par
+   C. FENMORE              (203)      16 Jobs               558.01      \par
+   W. IRRIN                (402)       5 Jobs               479.88      \par
+   W. KORDA                (406)       9 Jobs               413.84      \par
+   P. NOAKE                (600)      18 Jobs               527.63      \par
+   G. TARRO                (601)      13 Jobs               647.57      \par
+   M. CADE                 (602)      17 Jobs               375.74      \par
+   H. ORRIN                (604)       3 Jobs               319.04      \par
+   W. ORRIN                (605)      19 Jobs               260.11      \par
+   C. DASKAL               (607)       8 Jobs               183.70      \par
+   B. VOSS                 (803)       3 Jobs               407.08      \par
+   J. FROST                (901)       7 Jobs               419.62      \par
+   S. PELLAM               (902)      16 Jobs               553.75      \par
+   G. GALLAS               (903)       4 Jobs               479.49      \par
+   M. BIRCH                (904)      14 Jobs               383.51      \par
+   B. GALLAS               (906)       2 Jobs               351.31      \par
+   L. GALLAS               (907)       8 Jobs               245.80      \par
+   W. CADE                 (908)       5 Jobs               360.94      \par
+   J. DOWE                 (909)       8 Jobs               587.24      \par
+   C. CADE                 (910)      18 Jobs               198.95      \par
+   W. AMSEL                (911)       3 Jobs               613.18      \par
+   H. KORDA                (913)      14 Jobs               392.82      \par
+   G. ZELLE                (918)       2 Jobs               232.32      \par
+   A. YARROW               (920)       9 Jobs               613.26      \par
+   R. SABEL                (924)      14 Jobs               498.30      \par
+   W. FROST                (926)       5 Jobs               244.95      \par
+   G. DASKAL               (927)      19 Jobs               517.87      \par
+   B. URWIN                (951)       2 Jobs               175.07      \par
+   S. GRANT                (952)      17 Jobs               228.72      \par
+   T. FENMORE              (953)       6 Jobs               184.26      \par
+   C. PELLAM               (954)      13 Jobs               209.94      \par
+   H. LARK                 (956)      20 Jobs               169.87      \par
+   C. ABNEY                (957)      22 Jobs               441.84      \par
+   T. URWIN                (958)       9 Jobs               252.13      \par
+   L. PELLAM               (959)       9 Jobs               347.89      \par
+   K. DOWE                 (960)      11 Jobs               614.51      \par
+   C. AMSEL                (962)      15 Jobs               460.58      \par
+   D. EWERT                (964)      18 Jobs               256.58      \par
+   J. IRRIN                (966)      12 Jobs               590.43      \par
+   H. XANTH                (968)      10 Jobs               228.87      \par
+   W. TARRO                (969)      20 Jobs               641.93      \par
+\page * FMS *     ACME COURIERS P/L - DEPOT\tab JOB DETAILS REPORT   \tab\tab\tab Date printed: Mon Jan 12 17:30:01 2026\par
+\tab\tab\tab\tab FOR DRIVER   0001 to 0999            \tab\tab Page: 2\par
+\par\par
+\tab SUMMARY OF ENTIRE REPORT FOR THE PERIOD 12 Jan TO 12 Jan\par
+\par\par\par
+\tab Total no. of jobs: 800\tab Total pay out: $   30795.57\par
+}
