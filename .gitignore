@@ -1,0 +1,8 @@
+# Never commit real exports or generated output
+report.txt
+parsed_output.csv
+*.xlsx
+~$*
+# Keep the sanctioned samples
+!sample-data/report_sample.txt
+!sample-data/parsed_output_sample.csv
