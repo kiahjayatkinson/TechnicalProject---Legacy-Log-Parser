@@ -11,6 +11,7 @@ against the source's own declared totals before the data is trusted.
 > a SIEM. This project is that pattern, end to end, on a real-world data source.
 > 
 ![Parser output showing the reconciliation integrity check passing](docs/reconcile_output.png)
+![Lander showing the alignment check and protected structure rows](docs/lander_aligned.png)
 
 ---
 
