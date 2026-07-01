@@ -28,7 +28,7 @@ are buried inside control codes, page banners, and pagination noise:
 ```
 
 Extracting these by hand was slow and error-prone. The goal: parse every record
-reliably, and **prove the parse is correct** rather than hoping it is.
+reliably, and **prove the parse is correct** rather than hoping it is. The lander sheet aboce is used to organise and format the sheet export of worker totals for the day. It allows me to copy and paste into a shared earnings report in 1 click, without breaking any of the headings or rows logic. Time saver.
 
 ## The approach
 
