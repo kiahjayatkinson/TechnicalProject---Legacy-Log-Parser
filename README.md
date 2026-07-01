@@ -57,6 +57,32 @@ single record is missed, duplicated, or misread.
   (native on Windows endpoints / no install needed) and **Python** (the lingua
   franca of SOC tooling), showing the pattern transfers across the analyst stack.
 
+## Beyond this repo: safe one-click automation
+
+The parser here is the reusable core of a larger system built for the live
+operational workflow — a one-click launcher that runs the parse, loads the
+result into a validation workbook, and opens it ready for a human to check
+before anything touches the shared system of record. That launcher is tied
+to internal infrastructure and isn't included here, but the design pattern
+is worth calling out:
+
+- **Guard clauses before any action** — refuses to run if the target file is
+  open/locked or a required input is missing, checked *before* anything is
+  touched.
+- **Idempotent runs** — each run clears and rebuilds its own working area,
+  so re-running never double-writes or leaves stale state behind.
+- **Fail loud, not silent** — errors surface plainly in the console rather
+  than failing quietly; a script that hides its own failures is worse than
+  one that has none.
+- **A deliberate human checkpoint** — the one irreversible step (writing into
+  a shared record other people depend on) is left to a human, gated behind
+  a visible pass/fail check, rather than automated blindly.
+
+That last point is the one that matters most: automating right up to the
+edge of an irreversible action, then handing control back for a human
+decision, is the same shape a safe SOAR playbook or automated response
+action should take.
+
 ## Repo contents
 
 ```
