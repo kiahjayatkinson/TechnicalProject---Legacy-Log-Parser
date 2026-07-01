@@ -12,6 +12,7 @@ against the source's own declared totals before the data is trusted.
 > 
 ![Parser output showing the reconciliation integrity check passing](docs/reconcile_output.png)
 ![Lander showing the alignment check and protected structure rows](docs/lander_aligned.png)
+**Replica of original data sheet with fake names and values**
 
 ---
 
