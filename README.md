@@ -9,6 +9,8 @@ against the source's own declared totals before the data is trusted.
 > (appliance logs, mainframe exports, EDR dumps, firewall syslog) and turning it
 > into clean, *trustworthy* records that can be searched, correlated, or fed into
 > a SIEM. This project is that pattern, end to end, on a real-world data source.
+> 
+![Parser output showing the reconciliation integrity check passing](docs/reconcile_output.png)
 
 ---
 
