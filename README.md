@@ -3,6 +3,7 @@
 Automating the extraction of structured data from an unstructured legacy terminal
 dump, with a built-in **integrity check** that reconciles the parsed output
 against the source's own declared totals before the data is trusted.
+Previous approach = typing/copying in individual values for up to 100 workers slowly at the end of the day.
 
 > **Why this is in a security portfolio:** the work a SOC analyst does every day
 > starts with exactly this problem — taking noisy, semi-structured machine output
