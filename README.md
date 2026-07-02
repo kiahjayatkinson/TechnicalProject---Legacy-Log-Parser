@@ -48,6 +48,7 @@ single record is missed, duplicated, or misread.
 ## SOC / security relevance
 For me this was a great opportunity to test out what i've learned across various courses re parsing and organising logs. Most of which were made up scenarios but this was a real world example I could figure out on my own. Satisfying.
 
+Relevance:
 - **Log normalisation** — legacy/appliance logs rarely arrive SIEM-ready; this is
   the pre-ingest cleanup an analyst automates instead of doing by hand.
 - **Detection-data integrity** — a detection is only as good as the data under it.
